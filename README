@@ -1,0 +1,5 @@
+Piecewise quadratic approximator for learned indexes.
+
+Compile: make
+
+Produced file: newt
